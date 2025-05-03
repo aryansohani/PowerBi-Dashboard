@@ -20,5 +20,16 @@ This project is an interactive dashboard built using cleaned HR data. It provide
 - Language: Python (Pandas, Matplotlib, Seaborn)
 - Dashboard: Power BI 
 - Data Source: HR dataset (CSV / Excel)
+  
+## 🖼️ Dashboard Screenshots
+
+### 🏠 Home Page
+![Home](dashboard.1_page-0001.jpg)
+
+### ⚙️ Action Page
+![Action](dashboard.1_page-0002.jpg)
+
+### 📄 Details Page
+![Details](dashboard.1_page-0003.jpg)
 
 
